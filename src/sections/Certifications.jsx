@@ -224,8 +224,8 @@ const Certifications = () => {
     <section id="certifications" className="flex-center section-padding">
       <div className="w-full h-full md:px-10 px-5 mx-auto">
         <TitleHeader
-          title=" 📄 Certificaciones"
-          sub="🏆 Certificados por plataforma"
+          title=" 📄 Certifications"
+          sub="🏆 Certificates by platform"
         />
 
         <div className="mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
